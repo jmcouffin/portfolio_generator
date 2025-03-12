@@ -1,33 +1,33 @@
 {
-  "name": "Corey Schafer",
-  "label": "Software Engineer",
+  "name": "Jean-Marc Couffin",
+  "label": "Architect",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
-    "email": "CoreyMSchafer@gmail.com",
+    "email": "jmcouffin@gmail.com",
     "phone": "",
-    "location": "Charleston, WV"
+    "location": "Zlin, CZ"
   },
   "summary": "Programming educator on YouTube. Simplifying complex concepts into manageable steps to help learners digest material at their own pace.",
-  "url": "https://coreyms.com",
+  "url": "https://jmcouffin.com",
   "social_links": [
     {
-      "label": "Coreyms.com",
-      "url": "https://coreyms.com",
+      "label": "jmcouffin.com",
+      "url": "https://jmcouffin.com",
       "svg_path": "img/globe.svg"
     },
     {
       "label": "YouTube",
-      "url": "https://youtube.com/c/coreyms",
+      "url": "https://youtube.com/c/jmcouffin",
       "svg_path": "img/youtube.svg"
     },
     {
       "label": "Instagram",
-      "url": "https://www.instagram.com/coreymschafer",
+      "url": "https://www.instagram.com/jmcouffinchafer",
       "svg_path": "img/instagram.svg"
     },
     {
       "label": "Github",
-      "url": "https://github.com/CoreyMSchafer",
+      "url": "https://github.com/jmcouffinchafer",
       "svg_path": "img/github.svg"
     }
   ],
@@ -76,7 +76,7 @@
     {
       "title": "Educational Content Creator on YouTube",
       "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
+      "url": "https://youtube.com/c/jmcouffin",
       "highlights": ["Over 1 million subscribers", "Over 100 million views"],
       "images": [
         {
